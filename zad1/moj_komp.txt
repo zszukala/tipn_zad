@@ -1,0 +1,4 @@
+pojemnoœæ dysku : 97,5 GB
+iloœc pamiêci RAM: 2,00 GB
+rodzaj i prêdkoœæ procesora: Intel(R) Celeron(R) CPU B800 @ 1,50 GHz 1,50
+system: 64-bitowy system operacyjny 
